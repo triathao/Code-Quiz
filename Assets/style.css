@@ -34,7 +34,8 @@ body {
     font-size: 30px;
     color: aliceblue;
     font-weight: 700;
-    margin-top: 25px;
+    margin-top: 10px;
+    margin-bottom: 25px;
     line-height: 25px;
 }
 
@@ -51,8 +52,9 @@ body {
 }
 
 .btn {
+    background-image: linear-gradient(to right, rgb(11, 194, 11) , rgb(169, 250, 7));
     padding: 8px 18px;
-    color: rgb(19, 38, 101);
+    color: rgb(27, 22, 125);
     border: none;
     border-radius: 5px;
     font-family: 'Commissioner', sans-serif;
@@ -61,16 +63,35 @@ body {
 }
 
 .quiz-box .question-number {
-    font-size: 20px;
+    font-size: 25px;
+    text-align: center;
     color: aliceblue;
-    font-weight: 700;
+    font-weight: 500;
     border-bottom: 1px solid white;
+    padding-bottom: 20px;
+    line-height: 25px;
 
 }
+
 .quiz-box .question-text {
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    line-height: 28px;
+    font-weight: 300px;
+    padding: 20px;
+    margin: 0cm;
 
 }
-.quiz-box .option-container {
+.quiz-box .option-container {}
+
+.quiz-box .option-container .option {
+    color: rgb(24, 31, 79);
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    font-size: 15px;
+    line-height: 15px;
+    border-radius: 5px;
+    margin-bottom: 10px;
 
 }
 .quiz-box .answer-indicator {
