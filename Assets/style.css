@@ -30,6 +30,13 @@ body {
     border-radius: 10px;
 }
 
+.custom-box::before,
+.customer-box::after{
+    content: '';
+    clear: both;
+    display: table;
+}
+
 .custom-box.hide {
     display: none;
 }
@@ -67,6 +74,17 @@ body {
     display: inline-block;
 }
 
+.quiz-box .question-number,
+.quiz-box .question-text,
+.quiz-box .option-container,
+.quiz-box .next-question-btn,
+.quiz-box .answer-indicator {
+    width: 100%;
+    float: left;
+}
+
+
+
 .quiz-box .question-number {
     font-size: 25px;
     text-align: center;
@@ -87,7 +105,6 @@ body {
     margin: 0cm;
 
 }
-.quiz-box .option-container {}
 
 .quiz-box .option-container .option {
     color: rgb(24, 31, 79);
