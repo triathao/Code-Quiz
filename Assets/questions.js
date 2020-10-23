@@ -9,7 +9,63 @@ const quiz = [
 },
 {
     q:'Choose the correct HTML element for the largest heading:',
-    options: ["<h6>", "H<head>", "<h1>", "H<heading>"],
+    options: ["<h6>", "<head>", "<h1>", "<heading>"],
     answer: 2
-}
+},
+{
+    q:'HTML comments start with <!-- and end with -->',
+    options: ["true", "false"],
+    answer: 0
+},
+{
+    q:'Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?',
+    options: ["alt", "title", "src", "img"],
+    answer: 0
+},
+{
+    q:'Which HTML attribute specifies an alternate text for an image, if the image cannot be displayed?',
+    options: ["alt", "title", "src", "img"],
+    answer: 0
+},
+{
+    q:'Which HTML element is used to specify a footer for a document or section?',
+    options: ["<Header>", "<bottom>", "<footer> ", "<section>"],
+    answer: 2
+},
+{
+    q:'Who is making the Web standards?',
+    options: ["Google", "Microsoft", "Mozilla", "The World Wide Web Consortium"],
+    answer: 2
+},
+{
+    q:'Who is making the Web standards?',
+    options: ["Google", "Microsoft", "Mozilla", "The World Wide Web Consortium"],
+    answer: 2
+},
+{
+    q:'What is the correct HTML element for inserting a line break?',
+    options: ["<br>", "<break>", "<line Break>", "T<lb>"],
+    answer: 0
+},
+{
+    q:'Choose the correct HTML element for the largest heading:',
+    options: ["<h6>", "<head>", "<h1>", "<heading>"],
+    answer: 2
+},
+{
+    q:'Is JavaScript case-sensitive?',
+    options: ["True", "False"],
+    answer: 0
+},
+{
+    q:'What does CSS stand for?',
+    options: ["Computer Style Sheet", "Cascading Style Sheet", "<h1>", "Creative Style Sheet"],
+    answer: 2
+},
+{
+    q:'What is the correct HTML for referring to an external style sheet?',
+    options: ["<style src="mystyle.css">", "<link rel="stylesheet" type="text/css href="mystyle.css">", "<stylesheet>mystylle.css</stylesheet>", "<link "stylesheet.css">"],
+    answer: 2
+
+
 ]

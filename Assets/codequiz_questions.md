@@ -42,11 +42,9 @@ Q.7: What is the correct HTML element for inserting a line break?
     options 2 : <line Break>
     options 3 :<lb>
 
-Q.8: What does HTML stand for?
-    options 0 : Hyperlinks and Text Markup Language
-    options 1 : Home Tool Markup Language
-    options 2 : Hyper Text Markup Language
-    options 3 : How to Mail Letters
+Q.8: Is JavaScript case-sensitive?
+    options 0 : True
+    options 1 : False
 
 Q.9: Choose the correct HTML element for the largest heading:
     options 0 : <h6>
