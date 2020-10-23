@@ -26,7 +26,20 @@ function getNewQuestion(){
     currentQuestion = questionIndex;
     questionText.innerHTML = currentQuestion.q;
     //console.log(questionIndex)
+
+    questionCounter++
+    
 }
+   
+function next(){
+    if(questionCounter === quiz.length){
+        console.log("quiz over");
+    }
+    esle{
+        getNewQuestion();
+    }
+}
+
 window.onload = function(){
     //First we will set all questions in availableQuestions Array
     setAvailableQuestions();

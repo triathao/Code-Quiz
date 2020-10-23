@@ -93,7 +93,7 @@ const quiz = [
     answer: 3
 },
 {
-    q:'avaScript is the same as Java?',
+    q:'JavaScript is the same as Java?',
     options: ["True", "False"],
     answer: 1
 },
