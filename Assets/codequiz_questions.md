@@ -58,11 +58,11 @@ Q.10: What does CSS stand for?
     options 2 : Cascading Style Sheet *
     options 3 : Creative Style Sheet
 
- Q.11: What is the correct HTML for referring to an external style sheet?
-    options 0 : <style src="mystyle.css">
-    options 1 : <link rel="stylesheet" type="text/css href="mystyle.css"> *
-    options 2 : <stylesheet>mystylle.css</stylesheet>
-    options 3 : <link "stylesheet.css">
+ Q.11: How do you create a function in JavaScript?
+    options 0 : function = myFunction()  
+    options 1 : function:myFunction()
+    options 2 : function="myFunction"()
+    options 3 : function myFunction()  *
 
 Q.12: Which property is used to change the background color?
     options 0 : bgcolor
@@ -94,17 +94,17 @@ Q.15: How do you make the text bold?
     options 2 : <script> *
     options 3 : <scripting>
 
-Q.17: How do you write "Hello World" in an alert box?
-    options 0 : alert("Hello World"); *
-    options 1 : msg("Hello World");
-    options 2 : msgBox("Hello World")
-    options 3 : alertBox("Hello World")
+Q.17: Which event occurs when the user clicks on an HTML element?
+    options 0 : onmouseclick
+    options 1 : onmouseover
+    options 2 : onclick *
+    options 3 : onchange
 
-Q.18: What is the correct way to write a JavaScript array?
-    options 0 : var colors =(1:"red", 2:"blue", 3:"green",)
-    options 1 : var colors = 1 = red, blue, green
-    options 2 : var colors = "red", "blue", "green"
-    options 3 : var colors = ["red", "blue", "green"] *
+Q.18: Which operator is used to assign a value to a variable?
+    options 0 : -
+    options 1 : x
+    options 2 : *
+    options 3 : =
 
 Q.19: JavaScript is the same as Java?
     options 0 : True

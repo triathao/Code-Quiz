@@ -63,9 +63,58 @@ const quiz = [
     answer: 2
 },
 {
-    q:'What is the correct HTML for referring to an external style sheet?',
-    options: ["<style src="mystyle.css">", "<link rel="stylesheet" type="text/css href="mystyle.css">", "<stylesheet>mystylle.css</stylesheet>", "<link "stylesheet.css">"],
+    q:'What does CSS stand for?',
+    options: ["Computer Style Sheet", "Cascading Style Sheet", "<h1>", "Creative Style Sheet"],
     answer: 2
-
-
+},
+{
+    q:'How do you create a function in JavaScript?',
+    options: ["function = myFunction()", "function:myFunction()", "function=myFunction()", "function myFunction()"],
+    answer: 3
+},
+{
+    q:'Which property is used to change the background color?',
+    options: ["bgcolor", "background-color", "color", "color-background"],
+    answer: 1
+},
+{
+    q:'Which CSS property controls the text size?',
+    options: ["font-size", "text-style", "text-size", "font-style"],
+    answer: 0
+},
+{
+    q:'Which property is used to change the font of an element?',
+    options: ["font-family", "font-weight", "font-style", "font-element"],
+    answer: 0
+},
+{
+    q:'How do you make the text bold?',
+    options: ["font-weight: bold;", "font: bold;", "bold: font;", "style: bold;"],
+    answer: 3
+},
+{
+    q:'Inside which HTML element do we put the JavaScript?',
+    options: ["<javascript>", "<js>;", "<script>", "<scripting>"],
+    answer: 2
+},
+{
+    q:'Which event occurs when the user clicks on an HTML element?',
+    options: ["onmouseclick", "onmouseover", "onclick", "onchange"],
+    answer: 2
+},
+{
+    q:'Which operator is used to assign a value to a variable?',
+    options: ["-", "x", "*", "="],
+    answer: 3
+},
+{
+    q:'avaScript is the same as Java?',
+    options: ["True", "False"],
+    answer: 1
+},
+{
+    q:'How do you declare a JavaScript variable?',
+    options: ["variable carName;", "var carName;", "v varName;", "carName var;"],
+    answer: 1
+}
 ]
